@@ -38,7 +38,7 @@ This project is a **Movie Recommendation System** built using machine learning a
    ```
 
 ## 📺 Demo  
-Watch the demo video here: [YouTube Link](https://youtu.be/VxFsIRoqsI4)  
+Watch the demo video here: [YouTube Link](https://www.youtube.com/watch?v=VxFsIRoqsl4)
 
 ## 📌 Future Improvements  
 🔹 Improve UI/UX of the Streamlit app  
